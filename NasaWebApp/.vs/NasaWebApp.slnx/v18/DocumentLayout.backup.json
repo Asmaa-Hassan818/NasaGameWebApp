@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\NasaWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E6F541-02AE-18F5-26FA-08BCEDDED195}|NasaWebApp\\NasaWebApp.csproj|e:\\nasawebapp\\nasawebapp\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E6F541-02AE-18F5-26FA-08BCEDDED195}|NasaWebApp\\NasaWebApp.csproj|solutionrelative:nasawebapp\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E6F541-02AE-18F5-26FA-08BCEDDED195}|NasaWebApp\\NasaWebApp.csproj|e:\\nasawebapp\\nasawebapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E6F541-02AE-18F5-26FA-08BCEDDED195}|NasaWebApp\\NasaWebApp.csproj|solutionrelative:nasawebapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E6F541-02AE-18F5-26FA-08BCEDDED195}|NasaWebApp\\NasaWebApp.csproj|e:\\nasawebapp\\nasawebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E6F541-02AE-18F5-26FA-08BCEDDED195}|NasaWebApp\\NasaWebApp.csproj|solutionrelative:nasawebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E6F541-02AE-18F5-26FA-08BCEDDED195}|NasaWebApp\\NasaWebApp.csproj|e:\\nasawebapp\\nasawebapp\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E6F541-02AE-18F5-26FA-08BCEDDED195}|NasaWebApp\\NasaWebApp.csproj|solutionrelative:nasawebapp\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E6F541-02AE-18F5-26FA-08BCEDDED195}|NasaWebApp\\NasaWebApp.csproj|e:\\nasawebapp\\nasawebapp\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E6F541-02AE-18F5-26FA-08BCEDDED195}|NasaWebApp\\NasaWebApp.csproj|solutionrelative:nasawebapp\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E6F541-02AE-18F5-26FA-08BCEDDED195}|NasaWebApp\\NasaWebApp.csproj|e:\\nasawebapp\\nasawebapp\\models\\gameuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E6F541-02AE-18F5-26FA-08BCEDDED195}|NasaWebApp\\NasaWebApp.csproj|solutionrelative:nasawebapp\\models\\gameuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E6F541-02AE-18F5-26FA-08BCEDDED195}|NasaWebApp\\NasaWebApp.csproj|e:\\nasawebapp\\nasawebapp\\data\\gamedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E6F541-02AE-18F5-26FA-08BCEDDED195}|NasaWebApp\\NasaWebApp.csproj|solutionrelative:nasawebapp\\data\\gamedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E6F541-02AE-18F5-26FA-08BCEDDED195}|NasaWebApp\\NasaWebApp.csproj|e:\\nasawebapp\\nasawebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7E6F541-02AE-18F5-26FA-08BCEDDED195}|NasaWebApp\\NasaWebApp.csproj|solutionrelative:nasawebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E6F541-02AE-18F5-26FA-08BCEDDED195}|NasaWebApp\\NasaWebApp.csproj|e:\\nasawebapp\\nasawebapp\\nasawebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D7E6F541-02AE-18F5-26FA-08BCEDDED195}|NasaWebApp\\NasaWebApp.csproj|solutionrelative:nasawebapp\\nasawebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E6F541-02AE-18F5-26FA-08BCEDDED195}|NasaWebApp\\NasaWebApp.csproj|e:\\nasawebapp\\nasawebapp\\migrations\\20250927212534_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E6F541-02AE-18F5-26FA-08BCEDDED195}|NasaWebApp\\NasaWebApp.csproj|solutionrelative:nasawebapp\\migrations\\20250927212534_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\NasaWebApp\\NasaWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "NasaWebApp\\appsettings.json",
+              "ToolTip": "E:\\NasaWebApp\\NasaWebApp\\appsettings.json",
+              "RelativeToolTip": "NasaWebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-25T21:36:24.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\NasaWebApp\\NasaWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "NasaWebApp\\Program.cs",
+              "ToolTip": "E:\\NasaWebApp\\NasaWebApp\\Program.cs",
+              "RelativeToolTip": "NasaWebApp\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T21:36:20.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameUser.cs",
+              "DocumentMoniker": "E:\\NasaWebApp\\NasaWebApp\\Models\\GameUser.cs",
+              "RelativeDocumentMoniker": "NasaWebApp\\Models\\GameUser.cs",
+              "ToolTip": "E:\\NasaWebApp\\NasaWebApp\\Models\\GameUser.cs",
+              "RelativeToolTip": "NasaWebApp\\Models\\GameUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T11:32:21.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\NasaWebApp\\NasaWebApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "NasaWebApp\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\NasaWebApp\\NasaWebApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "NasaWebApp\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAuwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T11:35:35.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthDtos.cs",
+              "DocumentMoniker": "E:\\NasaWebApp\\NasaWebApp\\DTOs\\AuthDtos.cs",
+              "RelativeDocumentMoniker": "NasaWebApp\\DTOs\\AuthDtos.cs",
+              "ToolTip": "E:\\NasaWebApp\\NasaWebApp\\DTOs\\AuthDtos.cs",
+              "RelativeToolTip": "NasaWebApp\\DTOs\\AuthDtos.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T11:33:33.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "E:\\NasaWebApp\\NasaWebApp\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "NasaWebApp\\Services\\JwtService.cs",
+              "ToolTip": "E:\\NasaWebApp\\NasaWebApp\\Services\\JwtService.cs",
+              "RelativeToolTip": "NasaWebApp\\Services\\JwtService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T11:34:24.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "E:\\NasaWebApp\\NasaWebApp\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "NasaWebApp\\Controllers\\GameController.cs",
+              "ToolTip": "E:\\NasaWebApp\\NasaWebApp\\Controllers\\GameController.cs",
+              "RelativeToolTip": "NasaWebApp\\Controllers\\GameController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T20:26:23.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameDbContext.cs",
+              "DocumentMoniker": "E:\\NasaWebApp\\NasaWebApp\\Data\\GameDbContext.cs",
+              "RelativeDocumentMoniker": "NasaWebApp\\Data\\GameDbContext.cs",
+              "ToolTip": "E:\\NasaWebApp\\NasaWebApp\\Data\\GameDbContext.cs",
+              "RelativeToolTip": "NasaWebApp\\Data\\GameDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T11:31:41.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250927212534_Intial.cs",
+              "DocumentMoniker": "E:\\NasaWebApp\\NasaWebApp\\Migrations\\20250927212534_Intial.cs",
+              "RelativeDocumentMoniker": "NasaWebApp\\Migrations\\20250927212534_Intial.cs",
+              "ToolTip": "E:\\NasaWebApp\\NasaWebApp\\Migrations\\20250927212534_Intial.cs",
+              "RelativeToolTip": "NasaWebApp\\Migrations\\20250927212534_Intial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T21:25:36.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NasaWebApp.csproj",
+              "DocumentMoniker": "E:\\NasaWebApp\\NasaWebApp\\NasaWebApp.csproj",
+              "RelativeDocumentMoniker": "NasaWebApp\\NasaWebApp.csproj",
+              "ToolTip": "E:\\NasaWebApp\\NasaWebApp\\NasaWebApp.csproj",
+              "RelativeToolTip": "NasaWebApp\\NasaWebApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-25T21:27:27.427Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
